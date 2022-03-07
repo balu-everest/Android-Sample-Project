@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsAndViewModel</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="increase_count">Increase Count</string>
+    <string name="update">Update</string>
+</resources>
